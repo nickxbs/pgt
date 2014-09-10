@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>tav9</name>
+	<LookAt>
+		<longitude>10.30016733039681</longitude>
+		<latitude>45.47246101043421</latitude>
+		<altitude>0</altitude>
+		<heading>6.228081709208417e-008</heading>
+		<tilt>44.99855627031376</tilt>
+		<range>10801.4533641068</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>b0ffffff</color>
+	<Icon>
+		<href>tav9.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>45.47260360072927</north>
+		<south>45.46195602244766</south>
+		<east>10.3213977076899</east>
+		<west>10.28818276681476</west>
+		<rotation>-0.9308562797383017</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
